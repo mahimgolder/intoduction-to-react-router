@@ -4,10 +4,8 @@ nav a{
 nav span{
     margin-right: 20px;
 }
-.header-container{
-    background-color: brown;
-}
-*{
-    padding-top: 0px;
-    
+nav a.active{
+    text-decoration: underline;
+    background-color: aquamarine;
+    color: peru;
 }
